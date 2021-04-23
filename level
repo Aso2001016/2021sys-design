@@ -4,9 +4,10 @@
 
 if(体力 <= 20)then (true)
 :宿屋に泊まります;
-else
+else(fales)
 :頑張ってレベリング;
 endif
 
+end
 @enduml
 ```
